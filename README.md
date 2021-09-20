@@ -17,14 +17,14 @@ Project is created with Python 3.6.9.
 
 -   [NumPy](https://numpy.org/)
 -   [Matplotlib](https://matplotlib.org/)
--   [pandas](https://pandas.pydata.org/)
+-   [Pandas](https://pandas.pydata.org/)
 -   [Wordcloud](https://github.com/amueller/word_cloud)
 -   [NLTK](https://www.nltk.org/)
 -   [re](https://docs.python.org/3/library/re.html)
--   [collections](https://docs.python.org/2/library/collections.html)
-[Text-classification-flow-based-on-improved-TF-IDF-text-representation-method-5_Q320.jpg (320×320) (researchgate.net)]
+-   [Collections](https://docs.python.org/2/library/collections.html)
 ## Methodology
 ![Methodology](https://www.researchgate.net/publication/340734048/figure/fig2/AS:881690708832256@1587222854072/Text-classification-flow-based-on-improved-TF-IDF-text-representation-method-5_Q320.jpg)
+
 We use different feature sets and machine learning classifiers to determine the best combination for sentiment analysis of twitter. We also experiment with various pre-processing steps like - punctuations, emoticons,specific terms and stemming. We investigated the following features - unigrams, bigrams, trigrams and negation detection. We finally train our classifier using various machine-learning algorithms - Naive Bayes, Decision Trees and Maximum Entropy.
 
 ### Pre Processing
